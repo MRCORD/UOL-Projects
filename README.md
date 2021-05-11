@@ -1,5 +1,4 @@
-#All my UOL coursework for:
+# All my UOL coursework for:
+## IS2182: Innovating digital systems and services
 
-IS2182: Innovating digital systems and services
-
-IS2184: Information systems management
+## IS2184: Information systems management
